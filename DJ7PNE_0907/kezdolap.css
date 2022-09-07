@@ -1,0 +1,53 @@
+table{
+
+    text-align: center;
+
+}
+
+.tablazat table{
+
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+.tablazat td, .tablazat tr, .tablazat th{
+    padding: 10px 95px;
+
+}
+
+.tablazat{
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p{
+    width: 60%;
+    float: left;
+}
+
+p::first-line{
+    font-weight: bold;
+}
+
+body{
+
+    background-color: beige;
+
+}
+
+.paragraph img{
+
+    margin: auto;
+    margin-top: 10%;
+    margin-left: 0;
+    float: right;
+
+}
