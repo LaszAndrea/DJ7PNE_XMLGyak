@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<konferencia>
+    <cim id="1">Adatkezelés XML-ben</cim>
+    <hallgatok id="2">
+    
+        <hallgato>
+
+            <nev>László Andrea</nev>
+            <cim>3515 Miskolc Eper utca</cim>
+
+        </hallgato>
+
+        <hallgato>
+
+            <nev>Rontó Eszter</nev>
+            <cim>3434 Mályi</cim>
+
+        </hallgato>
+
+    </hallgatok>
+    <helyszin id="3">32 előadó</helyszin>
+    <eloado id="4">
+    
+        <nev>Dr Bednarik László</nev>
+        <adoszam></adoszam>
+        <lakcim></lakcim>
+    
+    </eloado>
+    <datum id="5">2022. szeptember 13.</datum>
+
+</konferencia>
