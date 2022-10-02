@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DJ7PNE_orarend>
+	<ora id="1" tipus="eloadas">
+		<targy>Web-Tech 1</targy>
+		<idopont>
+			<nap>hétfő</nap>
+			<tol>8:00</tol>
+			<ig>10:00</ig>
+		</idopont>
+		<helyszin>A1 305</helyszin>
+		<oktato>Agárdi Anita</oktato>
+		<szak>mérnökinformatika</szak>
+	</ora>
+	
+	<ora id="2" tipus="eloadas">
+		<targy>Integrált vállalati rendszerek</targy>
+		<idopont>
+			<nap>hétfő</nap>
+			<tol>16:00</tol>
+			<ig>18:00</ig>
+		</idopont>
+		<helyszin>313</helyszin>
+		<oktato>Dr. Dadvandipour Samad</oktato>
+		<szak>mérnökinformatika</szak>
+	</ora>
+	
+	<ora id="3" tipus="eloadas">
+		<targy>Mesterséges Intelligencia</targy>
+		<idopont>
+			<nap>kedd</nap>
+			<tol>9:00</tol>
+			<ig>12:00</ig>
+		</idopont>
+		<helyszin>A1 2.</helyszin>
+		<oktato>Dr Kunné Tamási Judit</oktato>
+		<szak>mérnökinformatika</szak>
+	</ora>
+	
+</DJ7PNE_orarend>
+	
