@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vendeglatas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XMLSchemaDJ7PNE./XMLSchemaDJ7PNE.xsd">
+<vendeglatas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XMLSchemaDJ7PNE.xsd">
 
 	<!--Étterem-->
     <etterem ekod="e1">
         <nev>Trófea</nev>
         <cim>
             <varos>Budapest</varos>
-            <utca>Visegrádi</utca>
+            <utca>Visegradi</utca>
             <hazszam>13</hazszam>
         </cim>
         <csillag>4</csillag>
@@ -33,20 +33,20 @@
     </etterem>
 
     <!--Főszakáscsok-->
-    <foszakacs fkod="1" e_f="e1">
+    <foszakacs fkod="f1" e_f="e1">
         <nev>Havas Péter</nev>
         <eletkor>34</eletkor>
         <vegzettseg>Szakközépiskola</vegzettseg>
         <vegzettseg>Institute of Paul Boscue</vegzettseg>
     </foszakacs>
 
-    <foszakacs fkod="2" e_f="e2">
+    <foszakacs fkod="f2" e_f="e2">
         <nev>Nagy Csilla</nev>
         <eletkor>27</eletkor>
         <vegzettseg>Institute of Cooking</vegzettseg>
     </foszakacs>
 
-    <foszakacs fkod="3" e_f="e3">
+    <foszakacs fkod="f3" e_f="e3">
         <nev>Kiss Anna</nev>
         <eletkor>30</eletkor>
         <vegzettseg>Egyetem</vegzettseg>
