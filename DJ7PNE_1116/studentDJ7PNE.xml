@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type = "text/xsl" href = "student-for-each.xsl"?>
+
+<class xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="studentDJ7PNE.xsd">
+    <student id="1">
+        <firstname>László</firstname>
+        <lastname>Andrea</lastname>
+        <nickname>Andi</nickname>
+        <age>21</age>
+        <osztondij>25500</osztondij>
+    </student>
+
+    <student id="2">
+        <firstname>Bogyó</firstname>
+        <lastname>Hanna</lastname>
+        <nickname>Hannus</nickname>
+        <age>18</age>
+        <osztondij>13000</osztondij>
+    </student>
+
+    <student id="3">
+        <firstname>Kiss</firstname>
+        <lastname>Péter</lastname>
+        <nickname>Peti</nickname>
+        <age>23</age>
+        <osztondij>18000</osztondij>
+    </student>
+</class>
