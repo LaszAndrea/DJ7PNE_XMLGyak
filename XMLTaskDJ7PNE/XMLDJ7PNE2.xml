@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<tasakgyartas xmlns="XMLDJ7PNE">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tasakgyartas xmlns="XMLDJ7PNE">
     <!--Nyomtatógépek-->
-    <nyomtatogep termeknev="1kg Gyermelyi finomliszt">
-        <folyometer>2500</folyometer>
+    <nyomtatogep termeknev="1kg Nagyi Titka">
+        <folyometer>3200</folyometer>
         <tipus>VF001</tipus>
         <festekfelhasznalas>5kg</festekfelhasznalas>
         <raszterhenger>180/10</raszterhenger>
@@ -22,12 +21,12 @@
         <raszterhenger>110/2</raszterhenger>
     </nyomtatogep>
     <!--Festékek-->
-    <festek felhasznalas="1kg Gyermelyi finomliszt" pantonszam="P1495">
+    <festek felhasznalas="1kg Nagyi Titka" pantonszam="P1495">
         <lejarat>2030.10.15</lejarat>
         <raktaron>150kg</raktaron>
         <gyarto>Colorprint</gyarto>
     </festek>
-    <festek felhasznalas="1kg Gyermelyi finomliszt" pantonszam="P706">
+    <festek felhasznalas="1kg Nagyi Titka" pantonszam="P706">
         <lejarat>2032.08.01</lejarat>
         <raktaron>450kg</raktaron>
         <gyarto>Colorprint</gyarto>
@@ -53,19 +52,20 @@
         <raktaron>80kg</raktaron>
         <gyarto>Colorprint</gyarto>
     </festek>
+    <!--Tasakrendelés-->
     <tasakrendeles tasakID="1">
-        <termeknev>1kg Gyermelyi finomliszt</termeknev>
-        <mennyiseg>150000db</mennyiseg>
+        <termeknev>1kg Nagyi Titka</termeknev>
+        <mennyiseg>180000</mennyiseg>
         <papirmin>80gr</papirmin>
     </tasakrendeles>
     <tasakrendeles tasakID="2">
         <termeknev>2kg Hajdú búzadara</termeknev>
-        <mennyiseg>100000db</mennyiseg>
+        <mennyiseg>100000</mennyiseg>
         <papirmin>70gr</papirmin>
     </tasakrendeles>
     <tasakrendeles tasakID="3">
         <termeknev>5kg Auschan Optimum</termeknev>
-        <mennyiseg>50000db</mennyiseg>
+        <mennyiseg>50000</mennyiseg>
         <papirmin>100gr</papirmin>
     </tasakrendeles>
     <!--Vevők-->
@@ -167,16 +167,16 @@
         <szerzodese>2012</szerzodese>
     </tulajdonos>
     <!--Szerződés kapcsolat-->
-    <szerzodes adoszam="77777777-77-777777" tajszam="1kg Gyermelyi finomliszt" tasakID="1">
+    <szerzodes adoszam="77777777-77-777777" tNev="1kg Nagyi Titka" tasakID="1">
         <rendeles>2022.09.15</rendeles>
     </szerzodes>
-    <szerzodes adoszam="77777777-77-777777" tajszam="2kg Hajdú búzadara" tasakID="2">
+    <szerzodes adoszam="77777777-77-777777" tNev="2kg Hajdú búzadara" tasakID="2">
         <rendeles>2022.09.18</rendeles>
     </szerzodes>
-    <szerzodes adoszam="88888888-22-787878" tajszam="5kg Auschan Optimum" tasakID="3">
+    <szerzodes adoszam="88888888-22-787878" tNev="5kg Auschan Optimum" tasakID="3">
         <rendeles>2022.10.06</rendeles>
     </szerzodes>
-    <szerzodes adoszam="22222222-22-222222" tajszam="5kg Auschan Optimum" tasakID="3">
+    <szerzodes adoszam="22222222-22-222222" tNev="5kg Auschan Optimum" tasakID="3">
         <rendeles>2022.10.03</rendeles>
     </szerzodes>
 </tasakgyartas>

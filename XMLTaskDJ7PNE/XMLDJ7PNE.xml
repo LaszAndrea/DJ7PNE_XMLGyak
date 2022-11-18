@@ -71,7 +71,7 @@
 
     <tasakrendeles tasakID="1">
         <termeknev>1kg Gyermelyi finomliszt</termeknev>
-        <mennyiseg>150000db</mennyiseg>
+        <mennyiseg>150000</mennyiseg>
         <papirmin>80gr</papirmin>
     </tasakrendeles>
 
@@ -183,25 +183,25 @@
     <tulajdonos tajszam="119075100" tGy="12345678-22-654321">
         <nev>Terplán Zénó</nev>
         <szuletes>1982</szuletes>
-        <szerzodes>2002</szerzodes>
+        <szerzodese>2002</szerzodese>
     </tulajdonos>
 
     <tulajdonos tajszam="117080205" tGy="13151614-32-956348">
         <nev>Tóth László</nev>
         <szuletes>1970</szuletes>
-        <szerzodes>1993</szerzodes>
+        <szerzodese>1993</szerzodese>
     </tulajdonos>
 
     <tulajdonos tajszam="120154203" tGy="32945817-68-164872">
         <nev>Reszegi Ivett</nev>
         <szuletes>1969</szuletes>
-        <szerzodes>2000</szerzodes>
+        <szerzodese>2006</szerzodese>
     </tulajdonos>
 
     <tulajdonos tajszam="120005203" tGy="62599875-77-121212">
         <nev>Balogh Panna</nev>
         <szuletes>1993</szuletes>
-        <szerzodes>2012</szerzodes>
+        <szerzodese>2012</szerzodese>
     </tulajdonos>
 
     <!--Szerződés kapcsolat-->
