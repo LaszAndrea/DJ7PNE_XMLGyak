@@ -1,0 +1,91 @@
+{
+
+	"_id": "DJ7PNE",
+	"vizsgak": {
+	
+		"vizsga": [
+	
+		{
+	
+			"kurzus": "Valószínûségszámítás",
+			"helyszin": "XXXIII. elõadó",
+			"idopont": {
+			
+				"nap": "Hétfõ",
+				"tol": "8:00",
+				"ig": "10:00"
+			
+			},
+			"oktato": "Fegyverneki Sándor",
+			"jegy": "3"
+	
+		},
+		
+		{
+	
+			"kurzus": "Objektum Orientált Programozás",
+			"helyszin": "103-as terem",
+			"idopont": {
+			
+				"nap": "Kedd",
+				"tol": "10:00",
+				"ig": "16:00"
+			
+			},
+			"oktato": "Dr. Baksáné Varga Erika",
+			"jegy": "4"
+	
+		},
+		
+		{
+	
+			"kurzus": "Analízis I",
+			"helyszin": "XXXII. elõadó",
+			"idopont": {
+			
+				"nap": "Kedd",
+				"tol": "10:00",
+				"ig": "12:00"
+			
+			},
+			"oktato": "Dr. Szilágyi Szilvia",
+			"jegy": "5"
+	
+		},
+		
+		{
+	
+			"kurzus": "Operációs rendszerek",
+			"helyszin": "XXXIII. elõadó",
+			"idopont": {
+			
+				"nap": "Kedd",
+				"tol": "8:00",
+				"ig": "10:00"
+			
+			},
+			"oktato": "Dr. Bednarik László",
+			"jegy": "4"
+	
+		},
+		
+		{
+	
+			"kurzus": "Fizika II",
+			"helyszin": "313-mas terem",
+			"idopont": {
+			
+				"nap": "Szerda",
+				"tol": "14:00",
+				"ig": "16:00"
+			
+			},
+			"oktato": "Pszota Gábor",
+			"jegy": "5"
+	
+		}
+	
+	
+	]}
+
+}

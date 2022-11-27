@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <_id>DJ7PNE</_id>
+  <vizsgak>
+    <vizsga>
+      <kurzus>Val�sz�n�s�gsz�m�t�s</kurzus>
+      <helyszin>XXXIII. el�ad�</helyszin>
+      <idopont>
+        <nap>H�tf�</nap>
+        <tol>8:00</tol>
+        <ig>10:00</ig>
+      </idopont>
+      <oktato>Fegyverneki S�ndor</oktato>
+      <jegy>3</jegy>
+    </vizsga>
+    <vizsga>
+      <kurzus>Objektum Orient�lt Programoz�s</kurzus>
+      <helyszin>103-as terem</helyszin>
+      <idopont>
+        <nap>Kedd</nap>
+        <tol>10:00</tol>
+        <ig>16:00</ig>
+      </idopont>
+      <oktato>Dr. Baks�n� Varga Erika</oktato>
+      <jegy>4</jegy>
+    </vizsga>
+    <vizsga>
+      <kurzus>Anal�zis I</kurzus>
+      <helyszin>XXXII. el�ad�</helyszin>
+      <idopont>
+        <nap>Kedd</nap>
+        <tol>10:00</tol>
+        <ig>12:00</ig>
+      </idopont>
+      <oktato>Dr. Szil�gyi Szilvia</oktato>
+      <jegy>5</jegy>
+    </vizsga>
+    <vizsga>
+      <kurzus>Oper�ci�s rendszerek</kurzus>
+      <helyszin>XXXIII. el�ad�</helyszin>
+      <idopont>
+        <nap>Kedd</nap>
+        <tol>8:00</tol>
+        <ig>10:00</ig>
+      </idopont>
+      <oktato>Dr. Bednarik L�szl�</oktato>
+      <jegy>4</jegy>
+    </vizsga>
+    <vizsga>
+      <kurzus>Fizika II</kurzus>
+      <helyszin>313-mas terem</helyszin>
+      <idopont>
+        <nap>Szerda</nap>
+        <tol>14:00</tol>
+        <ig>16:00</ig>
+      </idopont>
+      <oktato>Pszota G�bor</oktato>
+      <jegy>5</jegy>
+    </vizsga>
+  </vizsgak>
+</root>
