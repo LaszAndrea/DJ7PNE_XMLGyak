@@ -1,0 +1,21 @@
+<students>
+
+    <student>
+        <nev>Hallgato neve</nev>
+        <neptunkod>kkklll</neptunkod>
+        <szak>PTI</szak>
+    </student>
+
+    <student>
+        <nev>X Y</nev>
+        <neptunkod>zzzuuu</neptunkod>
+        <szak>MI</szak>
+    </student>
+
+    <student>
+        <nev>Z Q</nev>
+        <neptunkod>oookkk</neptunkod>
+        <szak>PTI</szak>
+    </student>
+
+</students>

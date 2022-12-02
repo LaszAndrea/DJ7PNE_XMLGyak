@@ -1,0 +1,39 @@
+{
+    "students": {
+        "student": [
+            {
+                "nev": [
+                    "Hallgato neve"
+                ],
+                "neptunkod": [
+                    "kkklll"
+                ],
+                "szak": [
+                    "PTI"
+                ]
+            },
+            {
+                "nev": [
+                    "X Y"
+                ],
+                "neptunkod": [
+                    "zzzuuu"
+                ],
+                "szak": [
+                    "MI"
+                ]
+            },
+            {
+                "nev": [
+                    "Z Q"
+                ],
+                "neptunkod": [
+                    "oookkk"
+                ],
+                "szak": [
+                    "PTI"
+                ]
+            }
+        ]
+    }
+}
