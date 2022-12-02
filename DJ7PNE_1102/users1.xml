@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users1 xmlns="DOMDJ7PNE">
+    <user id="1">
+        <firstname>László</firstname>
+        <lastname>Andrea</lastname>
+        <profession>tanuló</profession>
+    </user>
+    <user id="2">
+        <firstname>Kiss</firstname>
+        <lastname>Péter</lastname>
+        <profession>szoftverfejlesztő</profession>
+    </user>
+    <user id="3">
+        <firstname>Tóth</firstname>
+        <lastname>Alexa</lastname>
+        <profession>tanuló</profession>
+    </user>
+</users1>
