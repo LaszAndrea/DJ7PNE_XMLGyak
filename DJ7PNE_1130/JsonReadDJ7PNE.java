@@ -18,20 +18,28 @@ public class JsonReadDJ7PNE {
 
 		try {
 			
-			Object obj = parser.parse(new FileReader("JsonDJ7PNE.json"));
+			Object obj = parser.parse(new FileReader("vizsgakDJ7PNE.json"));
 
 			JSONObject jsonObject = (JSONObject) obj;
+			JSONObject o = (JSONObject) jsonObject.get("vizsgak");
 
-			// loop array
-			JSONArray students = (JSONArray) jsonObject.get("students");
-			for (int i = 0; i < students.size(); i++) {
+			JSONArray kurzus = (JSONArray) o.get("vizsga");
+			for (int i = 0; i < kurzus.size(); i++) {
 
-				System.out.println(i+1 + ". hallgató:\n");
+				System.out.println(i+1 + ". kurzus:\n");
 				
-				JSONObject a = (JSONObject) students.get(i);
-				System.out.println("Név: " + a.get("nev"));
-				System.out.println("Neptunkód: " + a.get("neptunkod"));
-				System.out.println("Szak: " + a.get("szak"));
+				JSONObject a = (JSONObject) kurzus.get(i);
+				System.out.println("Kurzus: " + a.get("kurzus"));
+				System.out.println("Helyszín: " + a.get("helyszin"));
+				
+				JSONObject object = (JSONObject) a.get("idopont");
+				
+				System.out.println("Nap: " + object.get("nap"));
+				System.out.println("Hánytól: " + object.get("tol"));
+				System.out.println("Meddig: " + object.get("ig"));
+				
+				System.out.println("Oktató: " + a.get("oktato"));
+				System.out.println("Jegy: " + a.get("jegy"));
 				
 				System.out.println("\n");
 				

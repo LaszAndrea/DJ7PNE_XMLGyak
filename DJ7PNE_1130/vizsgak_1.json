@@ -1,0 +1,14 @@
+{
+	"_id":"DJ7PNE",
+	"vizsgak":{
+		"vizsga":[
+		{
+		"oktato":"Dr. Fegyverneki Sándor",
+		"idopont":{
+			"tol":"8:00",
+			"nap":"hetfo",
+			"ig":"10:00"},
+		"kurzus":"Valszám",
+		"helyszin":"303",
+		"jegy":"3"},
+		{"oktato":"Dr. Baksáné Varga Erika","idopont":{"tol":"10:00","nap":"kedd","ig":"12:00"},"kurzus":"OOP","helyszin":"103","jegy":"4"}]}}
